@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "libp2p": "^0.30.12",
+        "libp2p-mplex": "^0.10.2",
+        "libp2p-noise": "^2.0.5",
+        "libp2p-tcp": "^0.15.3"
+    }
+}
