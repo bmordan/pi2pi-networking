@@ -42,6 +42,8 @@ const PEERS = new Set()
                 bootstrap: {
                     list: [
                         '/ip4/192.168.1.23/tcp/63785/p2p/QmdzW9uxVD6cKnVCxpq78cVeciMnLexKnrPN4zc7NMwCee',
+                        '/dns4/libp2p.multiverse-coaches.io/p2p/QmdzW9uxVD6cKnVCxpq78cVeciMnLexKnrPN4zc7NMwCee',
+                        '/dnsaddr/ams-2.bootstrap.libp2p.io/tcp/4001/p2p/QmbLHAnMoJPWSCR5Zhtx6BHJX9KiKNN6tpvbUcqanj75Nb'
                     ]
                 }
             },

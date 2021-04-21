@@ -16,6 +16,7 @@
         "libp2p-tcp": "^0.15.3",
         "libp2p-webrtc-star": "^0.21.2",
         "libp2p-websockets": "^0.15.3",
+        "ngrok": "^4.0.1",
         "peer-id": "^0.14.6",
         "wrtc": "^0.4.7"
     }
