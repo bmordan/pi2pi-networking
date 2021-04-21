@@ -41,9 +41,9 @@ const PEERS = new Set()
             peerDiscovery: {
                 bootstrap: {
                     list: [
-                        '/ip4/192.168.1.23/tcp/63785/p2p/QmdzW9uxVD6cKnVCxpq78cVeciMnLexKnrPN4zc7NMwCee',
-                        '/dns4/libp2p.multiverse-coaches.io/p2p/QmdzW9uxVD6cKnVCxpq78cVeciMnLexKnrPN4zc7NMwCee',
-                        '/dnsaddr/ams-2.bootstrap.libp2p.io/tcp/4001/p2p/QmbLHAnMoJPWSCR5Zhtx6BHJX9KiKNN6tpvbUcqanj75Nb'
+                        '/dnsaddr/ams-2.bootstrap.libp2p.io/tcp/4001/p2p/QmbLHAnMoJPWSCR5Zhtx6BHJX9KiKNN6tpvbUcqanj75Nb',
+                        '/ip4/46.101.18.118/tcp/63785/p2p/QmdzW9uxVD6cKnVCxpq78cVeciMnLexKnrPN4zc7NMwCee',
+                        '/ip4/46.101.18.118/tcp/63785/ws/p2p-webrtc-star/p2p/QmdzW9uxVD6cKnVCxpq78cVeciMnLexKnrPN4zc7NMwCee'
                     ]
                 }
             },
